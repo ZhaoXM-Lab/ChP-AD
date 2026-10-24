@@ -1,0 +1,26 @@
+name: chp-ad-rna
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - scikit-image
+  - matplotlib
+  - seaborn
+  - bedtools
+  - pip:
+      - scanpy==1.11.0
+      - anndata
+      - scrublet
+      - harmonypy
+      - leidenalg
+      - python-igraph
+      - gseapy==1.3.0
+      - drug2cell==0.1.2
+      - hormone2cell==0.1.2
+      - pybedtools

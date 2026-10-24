@@ -1,0 +1,14 @@
+trait	sumstats
+AD	data/reference/gwas/AD.sumstats.gz
+PD	data/reference/gwas/PD.sumstats.gz
+ALS	data/reference/gwas/ALS.sumstats.gz
+SCZ	data/reference/gwas/SCZ.sumstats.gz
+BIP	data/reference/gwas/BIP.sumstats.gz
+ASD	data/reference/gwas/ASD.sumstats.gz
+RA	data/reference/gwas/RA.sumstats.gz
+SLE	data/reference/gwas/SLE.sumstats.gz
+CD	data/reference/gwas/CD.sumstats.gz
+UC	data/reference/gwas/UC.sumstats.gz
+AST	data/reference/gwas/AST.sumstats.gz
+CEL	data/reference/gwas/CEL.sumstats.gz
+MS	data/reference/gwas/MS.sumstats.gz

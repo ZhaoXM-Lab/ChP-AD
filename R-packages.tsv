@@ -1,0 +1,29 @@
+package	version	role
+Seurat	5.3.0	RNA differential expression and cross-modal integration
+MAST	1.32.0	Unadjusted hurdle model
+Signac	1.14.0	ATAC QC and gene activity
+ArchR	1.0.3	ATAC peaks, cCREs, motifs and EPIs
+CellChat	2.2.0.9001	Intercellular communication
+rGREAT	2.8.0	Peak GO enrichment
+igraph	2.3.2	GRN plots
+susieR		Fine mapping
+genio		PLINK genotype import
+monocle3		Pseudotime trajectories
+edgeR		CPM for MAST input
+Matrix		Sparse matrices
+data.table		Tabular input and MAST output
+dplyr		Result processing
+tidyr		Communication result processing
+GenomicRanges		Genomic intervals
+GenomicFeatures		GTF annotation preparation
+rtracklayer		GTF/BED import and liftOver
+org.Hs.eg.db		Human gene annotations
+SummarizedExperiment		ArchR matrices
+SingleCellExperiment		Monocle3 coordinates
+ComplexHeatmap		Heatmaps and UpSet
+ggplot2		Figures
+ggalluvial		Communication patterns
+circlize		Chord diagrams
+gridExtra		Risk locus figure assembly
+harmony		Batch integration
+PRROC		EPI AUPRC

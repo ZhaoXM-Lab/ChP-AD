@@ -1,0 +1,14 @@
+name: chp-ad-celloracle
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy<2
+  - pandas<2
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pip:
+      - celloracle==0.18.0
+      - scanpy

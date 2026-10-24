@@ -1,0 +1,72 @@
+{
+  "major": [
+    "CPEC",
+    "Ependymal",
+    "Astrocyte",
+    "Oligodendrocyte",
+    "Macrophage",
+    "Endothelial",
+    "Fibroblast",
+    "Pericyte",
+    "V-SMC",
+    "M-SMC"
+  ],
+  "excluded": [
+    "OPC",
+    "Neuron",
+    "CD8+T"
+  ],
+  "subtypes": [
+    "CPEC-1",
+    "CPEC-2"
+  ],
+  "markers": {
+    "CPEC": [
+      "OTX2",
+      "LMX1A"
+    ],
+    "Ependymal": [
+      "DNAH9",
+      "CFAP299"
+    ],
+    "Astrocyte": [
+      "GFAP",
+      "AQP4"
+    ],
+    "Oligodendrocyte": [
+      "UGT8",
+      "FA2H",
+      "CNP"
+    ],
+    "Macrophage": [
+      "CYBB",
+      "CIITA"
+    ],
+    "Endothelial": [
+      "FLT1",
+      "CDH5",
+      "CD34"
+    ],
+    "Fibroblast": [
+      "SLC4A4"
+    ],
+    "Pericyte": [
+      "RGS5"
+    ],
+    "V-SMC": [
+      "ABCA9"
+    ],
+    "M-SMC": [
+      "KCNK2",
+      "SLC6A13"
+    ],
+    "CPEC-1": [
+      "DNAH5",
+      "SLC24A4"
+    ],
+    "CPEC-2": [
+      "NDUFA1",
+      "NDUFAB1"
+    ]
+  }
+}
